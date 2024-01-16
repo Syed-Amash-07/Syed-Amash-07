@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @Syed-Amash-07
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Developing Web,Software
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
 
-<!---
-Syed-Amash-07/Syed-Amash-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
